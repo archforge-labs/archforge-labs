@@ -19,10 +19,9 @@
 
 | | プロジェクト | ステータス |
 |---|---|---|
-| 🔧 | **MCP サーバー自作** — 自治体業務のドメイン知識を Claude が参照できる形で持ち込む | 開発中 |
+| 🔧 | **[mcp-context-engine](https://github.com/archforge-labs/mcp-context-engine)** — ObsidianノートをClaudeから検索・参照できるMCPサーバー | ✅ 公開済 |
 | 🤖 | **Claude Agent SDK プロダクト** — 要件→仕様の自動構造化エージェント | 開発中 |
 | 📊 | **LLM 評価・可観測性基盤** — プロンプト変更時のデグレ検知 + コスト/レイテンシ計測 | 設計中 |
-| 🧪 | **AI-Native Development Lab** — ハイブリッド推論（Local + Cloud）の実験記録 | 公開準備中 |
 
 公開リポは順次 pin していきます。
 
